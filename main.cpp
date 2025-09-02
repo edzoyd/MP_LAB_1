@@ -118,6 +118,8 @@ Names describe meaning → code is easier to read and maintain.
 
 Q3. Java vs. C++ enums:
 
+
+
 Java enums: are full classes — can have fields, methods, and constructors.
 
 C++ enums:
